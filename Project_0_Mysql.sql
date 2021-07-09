@@ -20,3 +20,7 @@ INSERT into mytable values(1109, "Snacks","Indian");
 
 -- drop a table
 drop table mytable;
+
+-- Sort in an order
+SELECT *FROM mytable
+ORDER BY cuisine DESC;
