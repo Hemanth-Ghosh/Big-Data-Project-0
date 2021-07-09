@@ -148,7 +148,7 @@ for i in result_1:
 
 # In[ ]:
 
-
+collection.drop()
 
 
 
