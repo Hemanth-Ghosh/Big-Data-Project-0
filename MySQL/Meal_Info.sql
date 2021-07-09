@@ -1,8 +1,13 @@
+-- Creating a Table
+
 CREATE TABLE mytable(
    meal_id  INTEGER  NOT NULL PRIMARY KEY 
   ,category VARCHAR(12) NOT NULL
   ,cuisine  VARCHAR(11) NOT NULL
 );
+
+-- Inserting values
+
 INSERT INTO mytable(meal_id,category,cuisine) VALUES (1885,'Beverages','Thai');
 INSERT INTO mytable(meal_id,category,cuisine) VALUES (1993,'Beverages','Thai');
 INSERT INTO mytable(meal_id,category,cuisine) VALUES (2539,'Beverages','Thai');
