@@ -1,0 +1,22 @@
+-- Select all rows from table
+SELECT * FROM demo.mytable;
+
+-- select a row from table
+SELECT *from demo.mytable limit 1; 
+
+-- select limited rows from table
+SELECT *from mytable limit 25;
+
+-- update command
+UPDATE mytable 
+SET category = "Snacks" where meal_id = 1109;
+
+-- delete command
+DELETE from mytable
+where meal_id = 1109;
+
+-- insert command
+INSERT into mytable values(1109, "Snacks","Indian");
+
+-- drop a table
+drop table mytable;
