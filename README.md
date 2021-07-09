@@ -16,3 +16,14 @@ Exploring various methods in MongoDB
   10. insert_many()
   11. inserted_ids()
   12. sort()
+
+Exploring various commands in MySQL
+  1. SELECT
+  2. UPDATE
+  3. DELETE
+  4. INSERT
+  5. DROP
+ 
+  Clauses:
+    1. LIMIT
+    2. ORDER BY
