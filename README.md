@@ -25,5 +25,6 @@ Exploring various commands in MySQL
   5. DROP
  
   Clauses:
-    1. LIMIT
-    2. ORDER BY
+    1. WHERE
+    2. LIMIT
+    3. ORDER BY
