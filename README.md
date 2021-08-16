@@ -1,9 +1,8 @@
-# Big-Data-Spark-Project-0
-Project 0 for Big Data/Spark Batch
-Meal Delivery System
-By Hemanth Ghosh
+# Big-Data-Spark-Project
+### Meal Delivery System
+###### By Hemanth Ghosh
 
-Exploring various methods in MongoDB
+## Exploring various methods in MongoDB
   1. find()
   2. find_one()
   3. limit()
@@ -17,14 +16,14 @@ Exploring various methods in MongoDB
   11. inserted_ids()
   12. sort()
 
-Exploring various commands in MySQL
+## Exploring various commands in MySQL
   1. SELECT
   2. UPDATE
   3. DELETE
   4. INSERT
   5. DROP
  
-  Clauses:
+  ### Clauses:
     1. WHERE
     2. LIMIT
     3. ORDER BY
